@@ -8,6 +8,7 @@ categories: 블로그 featured
 ---
 
 ## 👋 소개
+![image](https://user-images.githubusercontent.com/39522225/187132394-c150ac32-ecca-4f36-8205-f60fac300fe8.png)
 
 블로그를 직접 운영하면서 조금씩 그려봤던 이상적인 개발 블로그 테마를 Gatsby를 통해 만들어보게 되었습니다.  
 이 테마가 블로그를 운영하고자 하시는 분들에게 자신의 이야기를 잘 담을 수 있는 공간이 되었으면 좋겠습니다.🙌
