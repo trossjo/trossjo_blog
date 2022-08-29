@@ -1,6 +1,6 @@
 module.exports = {https://github.com/trossjo/trossjo_blog/blob/master/gatsby-meta-config.js
-  title: `zoomkoding.com`,
-  description: `줌코딩의 개발일기`,
+  title: `trossjo.com`,
+  description: `트로스조`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.zoomkoding.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
