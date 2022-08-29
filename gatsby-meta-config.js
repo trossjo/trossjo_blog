@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = {https://github.com/trossjo/trossjo_blog/blob/master/gatsby-meta-config.js
   title: `zoomkoding.com`,
   description: `줌코딩의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
@@ -18,8 +18,8 @@ module.exports = {
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-//       github: ``, // `https://github.com/trossjo`,
-//       linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
+      github: ``, // `https://github.com/trossjo`,
+      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
       email: ``, // `trossjo@gmail.com`,
     },
   },
